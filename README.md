@@ -1,2 +1,2 @@
 # ENCODECODER
-html text en- and decyption tool
+html text en- and decryption tool
